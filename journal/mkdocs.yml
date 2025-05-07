@@ -1,7 +1,7 @@
 site_name: Nemo's Journal
 
 nav:
-  - TechBits: techbits.md
+  - TechBits: index.md
   - About: about.md
 
 theme:
