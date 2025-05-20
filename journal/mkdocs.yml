@@ -24,6 +24,8 @@ theme:
 plugins:
   - search
   - markdown-exec
+  - open-in-new-tab:
+      add_icon: true
 
 markdown_extensions:
   - pymdownx.superfences
